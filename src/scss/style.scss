@@ -1,0 +1,23 @@
+// шрифты и переменные
+//@import "variables";
+//@import "fonts";
+
+// шрифты
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap');
+
+// обнуление, общие параметры
+@import "null-style";
+body, html {
+  height: auto;
+  min-height: 100vh;
+  font-size: 16px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #E5E5E5;
+}
+
+//ОБОЛОЧКА
+.wrapper {
+  width: 100%;
+  min-height: 100vh;
+  padding: 10px;
+}
