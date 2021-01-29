@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/register-form-react/static/css/main.8e5077f0.chunk.css",
-    "main.js": "/register-form-react/static/js/main.6fab0690.chunk.js",
-    "main.js.map": "/register-form-react/static/js/main.6fab0690.chunk.js.map",
+    "main.js": "/register-form-react/static/js/main.a451cc80.chunk.js",
+    "main.js.map": "/register-form-react/static/js/main.a451cc80.chunk.js.map",
     "runtime-main.js": "/register-form-react/static/js/runtime-main.58842500.js",
     "runtime-main.js.map": "/register-form-react/static/js/runtime-main.58842500.js.map",
     "static/js/2.68c37df7.chunk.js": "/register-form-react/static/js/2.68c37df7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.58842500.js",
     "static/js/2.68c37df7.chunk.js",
     "static/css/main.8e5077f0.chunk.css",
-    "static/js/main.6fab0690.chunk.js"
+    "static/js/main.a451cc80.chunk.js"
   ]
 }
