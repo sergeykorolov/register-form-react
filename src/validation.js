@@ -42,7 +42,7 @@ const useValidation = (value, validations) => {
                     }
                     break;
                 case 'isValidName':
-                    const reName = /^[a-z -]{3,16}$/;
+                    const reName = /^[a-zа-я -]{3,16}$/;
                     if (!reName.test(String(value).toLowerCase())) {
                         setNameError(true);
                         setErrorText('Введено некорректное значение');
